@@ -3,6 +3,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Life is like a box of chocolates &lpar;Part 1&rpar;](https://medium.com/@adityamisra_68704/life-is-like-a-box-of-chocolates-part-1-fcc989b0caa5?source=rss-decf176620b7------2)
+- [Machine Learning gets Darwin hitched.](https://medium.com/@adityamisra_68704/machine-learning-gets-darwin-hitched-364073450c67?source=rss-decf176620b7------2)
+- [Pathfinder and Priority Inversion](https://medium.com/@adityamisra_68704/pathfinder-and-priority-inversion-1ca4851948fc?source=rss-decf176620b7------2)
+- [Cache and the Closet](https://medium.com/@adityamisra_68704/cache-and-the-closet-cb729edd8fa6?source=rss-decf176620b7------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
